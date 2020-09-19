@@ -1,0 +1,86 @@
+
+#body{
+background-size: 100%;
+background-image: url(i.jpg);
+}
+
+#tb{
+   
+    position: absolute;
+    left: 270px;
+    top: 70px;
+   
+;
+}
+
+#mr/* */
+{
+    border-style: solid;
+  background-image: url(b.jfif);
+  border-radius: 100px;
+  border-color: rgb(0, 0, 0);
+  border-width:5px;
+    
+     
+}
+#main
+{
+    
+    
+    
+    background-repeat: no-repeat;
+    background-image: url(m.jpg);
+}
+
+a:hover{
+    
+    color: lawngreen;
+  
+}
+table
+{
+    border-color: black;
+    border: 10px;
+   border-collapse: collapse; 
+   
+    
+}
+td
+{
+  
+}
+#bp
+{border-style: solid;
+    background-image: url(b.jfif);
+    border-radius: 100px;
+    border-color: rgb(0, 0, 0);
+    border-width:5px;
+    
+    
+}
+
+.tstd
+{
+    border-collapse: collapse; border-spacing: 0;
+}
+
+img:hover
+{
+   content:url(xx.jpg);
+}
+
+
+
+
+
+
+
+.tdd
+{
+   border-left-color: blanchedalmond;
+   width:80px;
+   height: 80px;
+   border: 1px solid #11cc11;
+
+
+}
